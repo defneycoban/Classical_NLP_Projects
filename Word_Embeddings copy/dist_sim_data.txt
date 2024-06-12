@@ -1,0 +1,11 @@
+the men feed the dogs
+the women feed the dogs
+the women feed the men
+the men feed the men
+the dogs bite the men
+the dogs bite the women
+the dogs bite the dogs
+the dogs like the men
+the men like the women
+the women like the dogs
+the men like the dogs
